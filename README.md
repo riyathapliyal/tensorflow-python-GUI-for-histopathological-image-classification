@@ -10,9 +10,9 @@ Python 3.8
 
 ## **Libraries/Packages Used:**
 
-Tensorflow
-Keras
-tkinter
+- Tensorflow
+- Keras
+- tkinter
 
 ## **DataSet:**
 
